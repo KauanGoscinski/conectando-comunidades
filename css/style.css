@@ -82,9 +82,25 @@ body {
     background: var(--cor-fundo-card);
     padding: 1rem;
     box-shadow: var(--sombra-suave);
-    position: sticky;
+    position: relative;
     z-index: 99;
 }
+
+@media (min-width: 769px) {
+    .nav {
+        position: sticky;
+        top: 88px; /* altura real do header no desktop */
+    }
+}
+
+@media (max-width: 768px) {
+    .nav {
+        position: relative;
+        top: 0;
+    }
+}
+
+
 
 .nav-content {
     max-width: 1200px;
