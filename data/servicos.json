@@ -5,7 +5,7 @@
       "nome": "Gov.br",
       "categoria": "Geral",
       "descricao": "Portal único de acesso aos serviços digitais do governo federal",
-      "link": "https://www.gov.br",
+      "link": "https://sso.acesso.gov.br/login",
       "icone": "🏛️",
       "video": "https://www.youtube.com/embed/AJ1RRT2m6cw",
       "dicas": [
@@ -117,7 +117,7 @@
       "nome": "Conecte SUS",
       "categoria": "Saúde",
       "descricao": "Acesse seu histórico de saúde, vacinas e receitas digitais",
-      "link": "https://conectesus.saude.gov.br",
+      "link": "https://meususdigital.saude.gov.br/",
       "icone": "🏥",
       "video": "https://www.youtube.com/embed/rI-WQUsOyRw",
       "dicas": [
@@ -170,7 +170,7 @@
       "nome": "Carteira Digital de Trânsito (CDT)",
       "categoria": "Trânsito",
       "descricao": "CNH digital, documentos do veículo e consulta de multas",
-      "link": "https://servicos.serpro.gov.br/cdt",
+      "link": "https://www.gov.br/pt-br/apps/carteira-digital-de-transito-1",
       "icone": "🚗",
       "video": "https://www.youtube.com/embed/RW1ChiHnKZQ",
       "dicas": [
@@ -329,7 +329,7 @@
       "nome": "e-Título",
       "categoria": "Cidadania",
       "descricao": "Título de eleitor digital e justificativa de ausência no voto",
-      "link": "https://www.tse.jus.br/eleitor/titulo-e-local-de-votacao/titulo-eleitoral",
+      "link": "https://www.tse.jus.br/servicos-eleitorais/servicos/aplicativo-e-titulo",
       "icone": "🗳️",
       "video": "https://www.youtube.com/embed/g4L2qPjHvXo",
       "dicas": [
