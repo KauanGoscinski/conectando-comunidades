@@ -132,7 +132,7 @@ function realizarBusca(termo) {
 // Abrir tutorial
 function abrirTutorial(servicoId) {
     const servico = todosServicos.find(s => s.id === servicoId);
-    
+    console.log(servico)
     if (!servico) return;
     
     // Preencher modal
