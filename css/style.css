@@ -80,13 +80,15 @@ body {
     max-width: 600px;
     margin: 0 auto;
     animation: fadeInDown 1s ease;
+    white-space: nowrap;
+
 }
 
 /* Navegação */
 .nav {
     background: var(--cor-fundo-card);
     padding: 1rem;
-    margin-top: -1rem;
+    /* margin-top: -1rem; */
     box-shadow: var(--sombra-suave);
     position: sticky;
     top: 180px;
