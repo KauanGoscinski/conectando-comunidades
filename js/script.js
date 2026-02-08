@@ -135,12 +135,11 @@ function abrirTutorial(servicoId) {
     console.log(servico)
     if (!servico) return;
     
-    // Preencher modal
     document.getElementById('modal-icone').textContent = servico.icone;
-    document.getElementById('modal-titulo').textContent = servico.nome;
+    document.getElementById('modal-nome').textContent = servico.nome;
     document.getElementById('modal-descricao').textContent = servico.descricao;
+
     
-    // Adicionar vídeo se existir
     let videoHtml = '';
     if (servico.video) {
         videoHtml = `
