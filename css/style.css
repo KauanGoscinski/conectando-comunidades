@@ -1,4 +1,3 @@
-/* Reset e Variáveis */
 * {
     margin: 0;
     padding: 0;
@@ -6,35 +5,29 @@
 }
 
 :root {
-    /* Cores principais - Azul Claro */
     --cor-primaria: #4A90E2;
     --cor-primaria-escura: #357ABD;
     --cor-secundaria: #7DBBE6;
     --cor-destaque: #5BA3F5;
     
-    /* Cores neutras */
     --cor-fundo: #F8FBFF;
     --cor-fundo-card: #FFFFFF;
     --cor-texto: #2C3E50;
     --cor-texto-claro: #5A6C7D;
     --cor-borda: #D6E4F0;
     
-    /* Sombras */
     --sombra-suave: 0 2px 8px rgba(74, 144, 226, 0.08);
     --sombra-media: 0 4px 16px rgba(74, 144, 226, 0.12);
     --sombra-forte: 0 8px 24px rgba(74, 144, 226, 0.16);
     
-    /* Espaçamentos */
     --espacamento-pequeno: 0.5rem;
     --espacamento-medio: 1rem;
     --espacamento-grande: 2rem;
     
-    /* Fontes */
     --fonte-principal: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     --fonte-tamanho-base: 16px;
 }
 
-/* Estilos Globais */
 body {
     font-family: var(--fonte-principal);
     font-size: var(--fonte-tamanho-base);
@@ -88,10 +81,8 @@ body {
 .nav {
     background: var(--cor-fundo-card);
     padding: 1rem;
-    /* margin-top: -1rem; */
     box-shadow: var(--sombra-suave);
     position: sticky;
-    /* top: 180px; */
     z-index: 99;
 }
 
