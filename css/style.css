@@ -89,7 +89,7 @@ body {
 @media (min-width: 769px) {
     .nav {
         position: sticky;
-        top: 88px; /* altura real do header no desktop */
+        top: 88px;
     }
 }
 
