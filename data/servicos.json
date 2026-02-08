@@ -1,0 +1,434 @@
+{
+  "servicos": [
+    {
+      "id": 1,
+      "nome": "Gov.br",
+      "categoria": "Geral",
+      "descricao": "Portal único de acesso aos serviços digitais do governo federal",
+      "link": "https://www.gov.br",
+      "icone": "🏛️",
+      "video": "https://www.youtube.com/embed/l6fF4V9RCsY",
+      "dicas": [
+        "💡 Sua senha deve ter no mínimo 8 caracteres com letras, números e símbolos",
+        "💡 Guarde bem sua senha! Você vai usá-la em vários serviços do governo",
+        "💡 Existem 3 níveis de conta: Bronze (básico), Prata (intermediário) e Ouro (completo)",
+        "⚠️ Nunca compartilhe sua senha com ninguém, nem por telefone"
+      ],
+      "passos": [
+        {
+          "numero": 1,
+          "titulo": "Acessar o site Gov.br",
+          "descricao": "Abra seu navegador (Google Chrome, Firefox ou Edge) e digite na barra de endereços: <strong>www.gov.br</strong> - Você também pode baixar o app 'Gov.br' na Google Play Store ou App Store",
+          "imagem": "📱"
+        },
+        {
+          "numero": 2,
+          "titulo": "Clicar em 'Criar conta'",
+          "descricao": "Na página inicial, procure o botão azul <strong>'Entrar com Gov.br'</strong> e clique nele. Em seguida, clique em <strong>'Criar conta Gov.br'</strong> ou <strong>'Não tenho conta'</strong>",
+          "imagem": "🖱️"
+        },
+        {
+          "numero": 3,
+          "titulo": "Preencher seus dados pessoais",
+          "descricao": "Digite seu <strong>CPF</strong> (somente números, sem pontos e traços). Depois preencha: <strong>nome completo</strong>, <strong>data de nascimento</strong> e <strong>nome da mãe</strong>. Marque as caixinhas: ✓ 'Li e aceito os termos' e ✓ 'Sou humano'",
+          "imagem": "✍️"
+        },
+        {
+          "numero": 4,
+          "titulo": "Validar por email ou celular",
+          "descricao": "Escolha se quer receber um <strong>código de confirmação</strong> no seu <strong>email</strong> ou no seu <strong>celular</strong> (por mensagem SMS). Digite o código de 6 números que você recebeu no campo indicado",
+          "imagem": "📧"
+        },
+        {
+          "numero": 5,
+          "titulo": "Criar uma senha forte",
+          "descricao": "Crie uma senha <strong>segura e fácil de lembrar</strong>. Ela precisa ter pelo menos 8 caracteres com: letras maiúsculas (A-Z), letras minúsculas (a-z), números (0-9) e caracteres especiais (@#$%). Exemplo: Familia2025!",
+          "imagem": "🔐"
+        },
+        {
+          "numero": 6,
+          "titulo": "Conta criada com sucesso! ✅",
+          "descricao": "Parabéns! Agora você tem uma conta Gov.br e pode acessar <strong>mais de 4.000 serviços do governo</strong> com um único login. Use seu CPF e senha para entrar em qualquer serviço",
+          "imagem": "🎉"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Meu INSS",
+      "categoria": "Previdência",
+      "descricao": "Acompanhe benefícios, extratos e solicite serviços do INSS",
+      "link": "https://meu.inss.gov.br",
+      "icone": "💰",
+      "video": "https://www.youtube.com/embed/9bZkp7q19f0",
+      "dicas": [
+        "💡 Você precisa da conta Gov.br para usar o Meu INSS",
+        "💡 Guarde seus extratos em PDF para ter um histórico",
+        "💡 A simulação de aposentadoria é apenas uma estimativa",
+        "⚠️ Para perícia médica, você precisa agendar com antecedência"
+      ],
+      "passos": [
+        {
+          "numero": 1,
+          "titulo": "Baixar o aplicativo Meu INSS",
+          "descricao": "Abra a <strong>Play Store</strong> (Android) ou <strong>App Store</strong> (iPhone). Procure por <strong>'Meu INSS'</strong> e toque em 'Instalar'. Aguarde o download terminar e abra o aplicativo",
+          "imagem": "📲"
+        },
+        {
+          "numero": 2,
+          "titulo": "Fazer login com Gov.br",
+          "descricao": "Na tela inicial do app, toque em <strong>'Entrar com Gov.br'</strong>. Digite seu <strong>CPF</strong> e <strong>senha</strong> da conta Gov.br (a mesma que você criou antes). Se não tem conta Gov.br, crie uma primeiro",
+          "imagem": "🔑"
+        },
+        {
+          "numero": 3,
+          "titulo": "Responder perguntas de segurança",
+          "descricao": "No primeiro acesso, o app vai fazer <strong>perguntas sobre sua vida profissional</strong> para confirmar sua identidade. Responda com atenção! Exemplos: 'Você trabalhou na empresa X?', 'Qual foi seu primeiro emprego?'",
+          "imagem": "❓"
+        },
+        {
+          "numero": 4,
+          "titulo": "Ver seus benefícios",
+          "descricao": "Na tela inicial, você verá todos os seus <strong>benefícios do INSS</strong>: aposentadoria, pensão, auxílio-doença, etc. Toque em qualquer benefício para ver mais detalhes, como valor e data de pagamento",
+          "imagem": "💵"
+        },
+        {
+          "numero": 5,
+          "titulo": "Consultar extratos",
+          "descricao": "No menu principal, toque em <strong>'Extratos'</strong>. Você pode ver: • Extrato de pagamento (quando recebe), • Extrato de contribuição (CNIS), • Extrato de empréstimo consignado. Toque em cada um para visualizar ou baixar em PDF",
+          "imagem": "📄"
+        },
+        {
+          "numero": 6,
+          "titulo": "Simular aposentadoria",
+          "descricao": "No menu, toque em <strong>'Simular Aposentadoria'</strong>. O app mostrará: • Quanto tempo falta para aposentar, • Idade mínima necessária, • Tempo de contribuição. Use isso para planejar sua aposentadoria!",
+          "imagem": "📊"
+        },
+        {
+          "numero": 7,
+          "titulo": "Solicitar serviços",
+          "descricao": "No menu, toque em <strong>'Agendamentos/Solicitações'</strong>. Você pode: • Solicitar aposentadoria, • Agendar perícia médica, • Pedir auxílio-doença, • Atualizar dados cadastrais. Siga as instruções na tela",
+          "imagem": "📝"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "Conecte SUS",
+      "categoria": "Saúde",
+      "descricao": "Acesse seu histórico de saúde, vacinas e receitas digitais",
+      "link": "https://conectesus.saude.gov.br",
+      "icone": "🏥",
+      "video": "https://www.youtube.com/embed/PKpQRJj6eA8",
+      "dicas": [
+        "💡 Você pode mostrar seu certificado de vacina em viagens",
+        "💡 Atualize o app para ter acesso às últimas funcionalidades",
+        "💡 Guarde o PDF do certificado de vacina no celular",
+        "⚠️ Se vacinou e não aparece, aguarde até 5 dias úteis"
+      ],
+      "passos": [
+        {
+          "numero": 1,
+          "titulo": "Baixar o app Conecte SUS",
+          "descricao": "Abra a loja de aplicativos do seu celular (<strong>Play Store</strong> no Android ou <strong>App Store</strong> no iPhone). Digite <strong>'Conecte SUS'</strong> na busca. Toque em 'Instalar' e aguarde o download",
+          "imagem": "📱"
+        },
+        {
+          "numero": 2,
+          "titulo": "Fazer cadastro ou entrar",
+          "descricao": "Abra o app e escolha: • <strong>'Entrar com Gov.br'</strong> (se já tem conta), ou • <strong>'Cadastrar'</strong> (se é primeira vez). Se cadastrar, use seu CPF e crie uma senha de 8 dígitos com letras e números",
+          "imagem": "✍️"
+        },
+        {
+          "numero": 3,
+          "titulo": "Ver carteira de vacinação digital",
+          "descricao": "Na tela inicial, toque no ícone <strong>'Vacinas'</strong> ou <strong>'Carteira de Vacinação'</strong>. Você verá TODAS as suas vacinas: COVID-19, gripe, febre amarela, etc. Toque em cada uma para ver detalhes (doses, datas, locais)",
+          "imagem": "💉"
+        },
+        {
+          "numero": 4,
+          "titulo": "Baixar certificado de vacina COVID-19",
+          "descricao": "Toque em <strong>'Certificado Nacional de Vacinação'</strong> ou <strong>'Certificado COVID-19'</strong>. Você verá suas doses da vacina com QR Code. Toque em <strong>'Baixar PDF'</strong> ou <strong>'Compartilhar'</strong> para guardar ou enviar",
+          "imagem": "📄"
+        },
+        {
+          "numero": 5,
+          "titulo": "Ver histórico de atendimentos",
+          "descricao": "Toque em <strong>'Atendimentos'</strong> ou <strong>'Histórico'</strong>. Você verá: • Consultas realizadas no SUS, • Exames feitos, • Medicamentos recebidos, • Procedimentos hospitalares. Toque em cada item para mais informações",
+          "imagem": "🏨"
+        },
+        {
+          "numero": 6,
+          "titulo": "Consultar exames e resultados",
+          "descricao": "No menu, toque em <strong>'Exames'</strong> ou <strong>'Resultados de Exames'</strong>. Se seus exames foram feitos em unidades do SUS digitalizadas, você pode ver os resultados direto no app. Baixe em PDF se quiser guardar",
+          "imagem": "🔬"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nome": "Carteira Digital de Trânsito (CDT)",
+      "categoria": "Trânsito",
+      "descricao": "CNH digital, documentos do veículo e consulta de multas",
+      "link": "https://servicos.serpro.gov.br/cdt",
+      "icone": "🚗",
+      "video": "https://www.youtube.com/embed/RW1ChiHnKZQ",
+      "dicas": [
+        "💡 A CNH digital tem o mesmo valor legal que a física",
+        "💡 Você precisa de conta Gov.br nível Prata ou Ouro",
+        "💡 Guarde o aplicativo na tela inicial para acesso rápido",
+        "⚠️ Em blitz, pode mostrar a CNH no celular - é aceita!"
+      ],
+      "passos": [
+        {
+          "numero": 1,
+          "titulo": "Baixar o app Carteira Digital de Trânsito",
+          "descricao": "Na loja de apps do seu celular, procure <strong>'Carteira Digital de Trânsito'</strong> ou <strong>'CDT'</strong>. O ícone é verde com um carro. Toque em 'Instalar' e aguarde o download terminar",
+          "imagem": "📲"
+        },
+        {
+          "numero": 2,
+          "titulo": "Entrar com conta Gov.br",
+          "descricao": "Abra o app e toque em <strong>'Entrar com Gov.br'</strong>. Digite seu <strong>CPF</strong> e <strong>senha</strong>. ⚠️ IMPORTANTE: Sua conta precisa ser <strong>nível Prata ou Ouro</strong>. Se for Bronze, você precisa aumentar o nível primeiro",
+          "imagem": "🔐"
+        },
+        {
+          "numero": 3,
+          "titulo": "Ver sua CNH Digital",
+          "descricao": "Assim que entrar, sua <strong>CNH (Carteira de Motorista) digital</strong> aparecerá na tela principal! Você verá: foto, nome, número de registro, categoria (A, B, AB, etc.), validade. Toque nela para ver frente e verso",
+          "imagem": "🪪"
+        },
+        {
+          "numero": 4,
+          "titulo": "Adicionar seu veículo",
+          "descricao": "Toque em <strong>'Veículos'</strong> no menu inferior. Depois toque no botão <strong>'+'</strong> (mais) para adicionar. Digite a <strong>placa do carro</strong> e o <strong>RENAVAM</strong>. Pronto! Agora você tem o documento do veículo digital",
+          "imagem": "🚙"
+        },
+        {
+          "numero": 5,
+          "titulo": "Consultar multas de trânsito",
+          "descricao": "Toque em <strong>'Infrações'</strong> no menu. Você verá TODAS as suas multas: • Multas pendentes (não pagas), • Multas pagas, • Valor, data e local. Toque em cada multa para ver detalhes e gerar boleto para pagar",
+          "imagem": "🚦"
+        },
+        {
+          "numero": 6,
+          "titulo": "Indicar condutor de multa",
+          "descricao": "Se alguém dirigiu seu carro e levou multa, você precisa indicar quem estava dirigindo. Vá em <strong>'Infrações'</strong>, toque na multa e depois em <strong>'Indicar Condutor'</strong>. Preencha os dados da pessoa (CPF, nome, CNH)",
+          "imagem": "👤"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nome": "Receita Federal",
+      "categoria": "Impostos",
+      "descricao": "Declaração de Imposto de Renda, consulta de CPF e restituição",
+      "link": "https://www.gov.br/receitafederal",
+      "icone": "📊",
+      "video": "https://www.youtube.com/embed/Gc2u6AFImn8",
+      "dicas": [
+        "💡 Guarde todos os comprovantes de gastos com saúde e educação",
+        "💡 O prazo da declaração geralmente é de março a maio",
+        "💡 Você pode retificar (corrigir) a declaração depois",
+        "⚠️ Caiu na malha fina? Procure um contador para ajudar"
+      ],
+      "passos": [
+        {
+          "numero": 1,
+          "titulo": "Acessar o site da Receita Federal",
+          "descricao": "Abra seu navegador e digite: <strong>www.gov.br/receitafederal</strong> ou procure <strong>'Receita Federal'</strong> no Google. Você também pode baixar o app <strong>'Meu Imposto de Renda'</strong> na loja de aplicativos",
+          "imagem": "💻"
+        },
+        {
+          "numero": 2,
+          "titulo": "Consultar situação do CPF",
+          "descricao": "No site, procure o serviço <strong>'Meu CPF'</strong> ou <strong>'Consultar CPF'</strong>. Digite seu <strong>CPF</strong>, <strong>data de nascimento</strong> e resolva o captcha. Você verá se seu CPF está <strong>Regular</strong> ou <strong>Irregular</strong> (com pendências)",
+          "imagem": "🆔"
+        },
+        {
+          "numero": 3,
+          "titulo": "Baixar programa do Imposto de Renda",
+          "descricao": "Para fazer a declaração anual, você precisa baixar o programa <strong>'IRPF'</strong> (Imposto de Renda Pessoa Física) no computador. No site da Receita, procure <strong>'Download IRPF 2025'</strong>. Escolha Windows, Mac ou Linux e instale",
+          "imagem": "⬇️"
+        },
+        {
+          "numero": 4,
+          "titulo": "Fazer declaração de Imposto de Renda",
+          "descricao": "Abra o programa IRPF no computador. Preencha: • Seus dados pessoais, • Rendimentos recebidos (salário, aposentadoria), • Despesas dedutíveis (saúde, educação, dependentes), • Bens que você possui. No final, transmita pela internet",
+          "imagem": "📝"
+        },
+        {
+          "numero": 5,
+          "titulo": "Consultar restituição",
+          "descricao": "Vai receber dinheiro de volta? Acesse <strong>'Meu Imposto de Renda'</strong> no site ou app. Entre com conta Gov.br. Clique em <strong>'Consultar Restituição'</strong>. Você verá: se tem restituição, quanto vai receber e quando (lote)",
+          "imagem": "💰"
+        },
+        {
+          "numero": 6,
+          "titulo": "Emitir comprovantes",
+          "descricao": "No site, procure <strong>'Serviços'</strong> e depois <strong>'Comprovantes'</strong>. Você pode emitir: • Comprovante de Situação Cadastral do CPF, • Comprovante de Rendimentos, • Declaração de Imposto de Renda entregue. Baixe em PDF",
+          "imagem": "📄"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nome": "FGTS",
+      "categoria": "Trabalho",
+      "descricao": "Consulte saldo, extratos e faça saque do FGTS",
+      "link": "https://www.fgts.gov.br",
+      "icone": "💼",
+      "video": "https://www.youtube.com/embed/7eFAwKFVdms",
+      "dicas": [
+        "💡 Todo mês seu patrão deposita 8% do seu salário no FGTS",
+        "💡 Você pode sacar em casos especiais: demissão, casa própria, doença grave",
+        "💡 Tem dinheiro esquecido? Pode ter valores de empregos antigos!",
+        "⚠️ Cuidado com fraudes! Nunca passe senha por telefone"
+      ],
+      "passos": [
+        {
+          "numero": 1,
+          "titulo": "Baixar o aplicativo FGTS",
+          "descricao": "Vá na loja de aplicativos do seu celular (<strong>Play Store</strong> ou <strong>App Store</strong>). Procure por <strong>'FGTS'</strong> - o ícone é verde e branco com as letras FGTS. Toque em 'Instalar' e aguarde",
+          "imagem": "📱"
+        },
+        {
+          "numero": 2,
+          "titulo": "Fazer cadastro pela primeira vez",
+          "descricao": "Abra o app e toque em <strong>'Cadastrar'</strong>. Preencha: • Seu <strong>CPF</strong> (somente números), • <strong>Nome completo</strong>, • <strong>Data de nascimento</strong>, • Crie uma <strong>senha numérica</strong> (6 números). Anote sua senha!",
+          "imagem": "✍️"
+        },
+        {
+          "numero": 3,
+          "titulo": "Ver saldo do FGTS",
+          "descricao": "Na tela inicial, você verá o <strong>saldo total</strong> do seu FGTS! É a soma de todos os seus empregos. Se trabalhou em várias empresas, verá o saldo de cada uma separadamente. Toque em cada conta para ver mais detalhes",
+          "imagem": "💰"
+        },
+        {
+          "numero": 4,
+          "titulo": "Consultar extratos mensais",
+          "descricao": "Toque em <strong>'Extratos'</strong> no menu. Você verá todos os <strong>depósitos mensais</strong> que seu empregador fez: • Mês e ano do depósito, • Valor depositado, • Empresa que depositou. Use isso para conferir se está recebendo direitinho",
+          "imagem": "📊"
+        },
+        {
+          "numero": 5,
+          "titulo": "Ver se pode sacar FGTS",
+          "descricao": "Toque em <strong>'Saque'</strong> ou <strong>'Meus Saques'</strong>. O app mostrará: • Se você TEM direito a sacar, • Quanto pode sacar, • Motivo do saque (demissão, aniversário, etc). Se tiver saldo disponível, siga as instruções",
+          "imagem": "🏦"
+        },
+        {
+          "numero": 6,
+          "titulo": "Sacar o FGTS (se tiver direito)",
+          "descricao": "Se pode sacar, toque em <strong>'Sacar'</strong>. Escolha: • Transferir para sua conta bancária (informe banco, agência, conta), ou • Receber na Caixa Econômica (gera senha para saque). Confirme e aguarde o dinheiro cair na conta!",
+          "imagem": "💵"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "nome": "e-Título",
+      "categoria": "Cidadania",
+      "descricao": "Título de eleitor digital e justificativa de ausência no voto",
+      "link": "https://www.tse.jus.br/eleitor/titulo-e-local-de-votacao/titulo-eleitoral",
+      "icone": "🗳️",
+      "video": "https://www.youtube.com/embed/g4L2qPjHvXo",
+      "dicas": [
+        "💡 O e-Título vale como documento oficial com foto",
+        "💡 Você pode justificar ausência até 60 dias após a eleição",
+        "💡 Baixe o app antes do dia da eleição!",
+        "⚠️ Sem justificar 3 vezes seguidas? Seu título fica irregular"
+      ],
+      "passos": [
+        {
+          "numero": 1,
+          "titulo": "Baixar o aplicativo e-Título",
+          "descricao": "Na loja de aplicativos, procure <strong>'e-Título'</strong> ou <strong>'e-Titulo TSE'</strong>. O ícone é roxo/verde com uma urna eletrônica. Toque em 'Instalar'. É um app oficial do TSE (Tribunal Superior Eleitoral)",
+          "imagem": "📲"
+        },
+        {
+          "numero": 2,
+          "titulo": "Informar seus dados",
+          "descricao": "Abra o app e toque em <strong>'Cadastrar'</strong>. Preencha: • <strong>Nome completo</strong>, • <strong>CPF</strong>, • <strong>Data de nascimento</strong>, • <strong>Nome da mãe</strong> (igual ao registro). Marque 'Não sou robô' e continue",
+          "imagem": "✍️"
+        },
+        {
+          "numero": 3,
+          "titulo": "Tirar foto (reconhecimento facial)",
+          "descricao": "O app vai pedir para <strong>tirar uma foto do seu rosto</strong> (selfie). Isso é para validar sua identidade. Posicione seu rosto no círculo, tire os óculos se usar, e deixe o ambiente bem iluminado. Toque no botão e pisque quando pedir",
+          "imagem": "📸"
+        },
+        {
+          "numero": 4,
+          "titulo": "Título de eleitor digital pronto!",
+          "descricao": "Pronto! Seu <strong>título de eleitor digital</strong> já está disponível! Você verá: • Seu nome, • Número do título, • Zona e seção eleitoral, • Local de votação (endereço). No dia da eleição, é só mostrar o app!",
+          "imagem": "🗳️"
+        },
+        {
+          "numero": 5,
+          "titulo": "Justificar ausência (se não votou)",
+          "descricao": "Não pôde votar? Toque em <strong>'Justificar'</strong> ou <strong>'Justificativa de Ausência'</strong> no menu. Escolha: • A eleição que faltou, • O motivo da ausência. Preencha o formulário e envie. Você receberá um comprovante por email",
+          "imagem": "📝"
+        },
+        {
+          "numero": 6,
+          "titulo": "Consultar situação eleitoral",
+          "descricao": "No menu, toque em <strong>'Certidão de Quitação Eleitoral'</strong> ou <strong>'Situação Eleitoral'</strong>. Você verá se está: • <strong>Regular</strong> (tudo ok!), • <strong>Irregular</strong> (tem pendências). Se irregular, veja o que precisa fazer para regularizar",
+          "imagem": "✅"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "nome": "Cadastro Único (CadÚnico)",
+      "categoria": "Assistência Social",
+      "descricao": "Cadastro para programas sociais como Bolsa Família e Tarifa Social",
+      "link": "https://www.gov.br/cidadania/pt-br/acoes-e-programas/cadastro-unico",
+      "icone": "👨‍👩‍👧‍👦",
+      "video": "https://www.youtube.com/embed/nKdDAkq9bQc",
+      "dicas": [
+        "💡 O cadastro é gratuito e deve ser atualizado a cada 2 anos",
+        "💡 Leve documentos de TODA a família que mora com você",
+        "💡 Renda familiar deve ser até 3 salários mínimos",
+        "⚠️ Cuidado com fraudes! Ninguém cobra para fazer o CadÚnico"
+      ],
+      "passos": [
+        {
+          "numero": 1,
+          "titulo": "Encontrar o CRAS mais próximo",
+          "descricao": "O <strong>Cadastro Único</strong> é feito presencialmente no <strong>CRAS</strong> (Centro de Referência de Assistência Social) da sua cidade. Procure no Google: <strong>'CRAS + nome da sua cidade'</strong>. Ou ligue na prefeitura: 156",
+          "imagem": "📍"
+        },
+        {
+          "numero": 2,
+          "titulo": "Separar os documentos necessários",
+          "descricao": "Leve documentos de TODA a família: • <strong>CPF ou Título de Eleitor</strong> (responsável familiar), • <strong>Comprovante de residência</strong> (água, luz, aluguel - até 3 meses), • <strong>Certidão de Nascimento</strong> dos filhos menores, • RG e CPF de todos (se tiver)",
+          "imagem": "📄"
+        },
+        {
+          "numero": 3,
+          "titulo": "Ir ao CRAS para fazer o cadastro",
+          "descricao": "Vá ao CRAS com todos os documentos. Chegue cedo! Um <strong>assistente social</strong> fará uma <strong>entrevista</strong> com você. Vão perguntar sobre: • Quantas pessoas moram na casa, • Quanto ganham (renda familiar), • Condições da casa, • Despesas",
+          "imagem": "🏛️"
+        },
+        {
+          "numero": 4,
+          "titulo": "Receber o NIS (número do cadastro)",
+          "descricao": "Após o cadastro, você receberá um número chamado <strong>NIS</strong> (Número de Identificação Social). É com esse número que você consulta o cadastro e os benefícios. <strong>Anote e guarde bem esse número!</strong> Ele é muito importante",
+          "imagem": "🔢"
+        },
+        {
+          "numero": 5,
+          "titulo": "Consultar o cadastro pela internet",
+          "descricao": "Alguns dias depois, você pode consultar seu cadastro online. Acesse: <strong>consultacadastro.mds.gov.br</strong> ou <strong>meuCadUnico.cidadania.gov.br</strong>. Digite seu <strong>NIS</strong> e <strong>data de nascimento</strong> para ver a situação do cadastro",
+          "imagem": "💻"
+        },
+        {
+          "numero": 6,
+          "titulo": "Acompanhar Bolsa Família no Caixa Tem",
+          "descricao": "Se for aprovado no <strong>Bolsa Família</strong>, baixe o app <strong>'Caixa Tem'</strong>. Lá você verá: • Quando receberá o pagamento, • Valor do benefício, • Calendário de pagamentos. O dinheiro cai na <strong>Poupança Social Digital</strong> da Caixa",
+          "imagem": "💰"
+        }
+      ]
+    }
+  ]
+}

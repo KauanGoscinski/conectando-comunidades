@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Guia digital de serviços públicos para facilitar o acesso da população aos recursos governamentais online">
+    <meta name="keywords" content="serviços públicos, gov.br, INSS, SUS, tutorial, inclusão digital">
+    <meta name="author" content="Kauan Vieira Goscinski - UNINTER">
+    <title>Conectando Comunidades - Guia Digital de Serviços Públicos</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-content">
+            <div class="logo" role="img" aria-label="Logo Conectando Comunidades">🌐</div>
+            <h1>Conectando Comunidades</h1>
+            <p>Seu guia prático para acessar serviços públicos digitais de forma fácil e rápida</p>
+        </div>
+    </header>
+
+    <!-- Navegação com Filtros -->
+    <nav class="nav" aria-label="Filtros de categoria">
+        <div class="nav-content">
+            <button class="btn-filtro ativo" data-categoria="todos">
+                📋 Todos
+            </button>
+            <button class="btn-filtro" data-categoria="Geral">
+                🏛️ Geral
+            </button>
+            <button class="btn-filtro" data-categoria="Previdência">
+                💰 Previdência
+            </button>
+            <button class="btn-filtro" data-categoria="Saúde">
+                🏥 Saúde
+            </button>
+            <button class="btn-filtro" data-categoria="Trânsito">
+                🚗 Trânsito
+            </button>
+            <button class="btn-filtro" data-categoria="Impostos">
+                📊 Impostos
+            </button>
+            <button class="btn-filtro" data-categoria="Trabalho">
+                💼 Trabalho
+            </button>
+            <button class="btn-filtro" data-categoria="Cidadania">
+                🗳️ Cidadania
+            </button>
+            <button class="btn-filtro" data-categoria="Assistência Social">
+                👨‍👩‍👧‍👦 Assistência
+            </button>
+        </div>
+    </nav>
+
+    <!-- Container Principal -->
+    <main class="container">
+        <!-- Seção de Busca -->
+        <section class="busca-section">
+            <div class="busca-container">
+                <label for="input-busca" class="sr-only">Buscar serviço</label>
+                <input 
+                    type="text" 
+                    id="input-busca" 
+                    class="input-busca" 
+                    placeholder="Busque por um serviço... (ex: INSS, CPF, Vacina)"
+                    aria-label="Campo de busca de serviços"
+                >
+                <button id="btn-busca" class="btn-busca" aria-label="Buscar">
+                    🔍
+                </button>
+            </div>
+        </section>
+
+        <!-- Grid de Serviços -->
+        <section id="servicos-grid" class="servicos-grid" aria-label="Lista de serviços públicos">
+            <!-- Os cards serão inseridos aqui via JavaScript -->
+        </section>
+    </main>
+
+    <!-- Modal de Tutorial -->
+    <div id="modal-tutorial" class="modal" role="dialog" aria-labelledby="modal-titulo" aria-modal="true">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button class="btn-fechar" aria-label="Fechar tutorial">✕</button>
+                <h2 id="modal-titulo">
+                    <span id="modal-icone" role="img"></span>
+                    <span></span>
+                </h2>
+                <p id="modal-descricao"></p>
+            </div>
+            <div class="modal-body">
+                <div id="modal-passos">
+                    <!-- Passos serão inseridos aqui via JavaScript -->
+                </div>
+                <a id="btn-acessar" href="#" target="_blank" rel="noopener noreferrer" class="btn-acessar">
+                    🔗 Acessar o Serviço
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <h3>💡 Dica Importante</h3>
+            <p>Nunca compartilhe suas senhas com ninguém!</p>
+            <p>Os serviços públicos oficiais nunca pedem senhas por telefone ou email.</p>
+            <p>Em caso de dúvida, procure ajuda em locais oficiais como CRAS, prefeituras ou delegacias.</p>
+            
+            <div class="footer-info">
+                <p><strong>Conectando Comunidades</strong> - Projeto de Inclusão Digital</p>
+                <p>São José dos Pinhais, PR</p>
+                <p>Desenvolvido por Kauan Vieira Goscinski</p>
+                <p>UNINTER - Engenharia de Software - 2025</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Script JavaScript -->
+    <script src="js/script.js"></script>
+</body>
+</html>
