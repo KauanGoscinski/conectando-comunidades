@@ -11,9 +11,9 @@ Projeto de Inclusão Digital desenvolvido para facilitar o acesso de pessoas com
 **Instituição:** Centro Universitário Internacional UNINTER  
 **Curso:** Bacharelado em Engenharia de Software  
 **Disciplina:** Atividade Extensionista I - Tecnologia Aplicada à Inclusão Digital  
-**Aluno:** Kauan Vieira Goscinski (RU: 5247788)  
+**Aluno:** Kauan Vieira Goscinski
 **Local:** São José dos Pinhais - PR  
-**Ano:** 2025
+**Ano:** 2025-2026
 
 ### Objetivos do Projeto
 
@@ -72,59 +72,6 @@ O projeto atende aos seguintes ODS da ONU:
 - Tipografia legível (Segoe UI)
 - Ícones emoji para facilitar identificação
 - Animações suaves para melhor UX
-
----
-
-## 📁 Estrutura do Projeto
-
-```
-conectando-comunidades/
-│
-├── index.html              # Página principal
-├── css/
-│   └── style.css          # Estilos do site
-├── js/
-│   └── script.js          # Funcionalidades JavaScript
-├── data/
-│   └── servicos.json      # Banco de dados dos serviços
-├── folder_divulgacao.pdf  # Material de divulgação
-├── GUIA_HOSPEDAGEM.md     # Tutorial de hospedagem
-└── README.md              # Este arquivo
-```
-
----
-
-## 💻 Como Usar Localmente
-
-### Opção 1: Abrir diretamente no navegador
-1. Baixe todos os arquivos
-2. Abra o arquivo `index.html` no seu navegador
-3. Pronto! O site estará funcionando
-
-### Opção 2: Usar servidor local (recomendado)
-```bash
-# Com Python 3
-python -m http.server 8000
-
-# Com Python 2
-python -m SimpleHTTPServer 8000
-
-# Com Node.js
-npx http-server
-```
-
-Depois acesse: `http://localhost:8000`
-
----
-
-## 🌐 Como Hospedar na Internet
-
-Consulte o arquivo **GUIA_HOSPEDAGEM.md** para instruções detalhadas.
-
-**Opções recomendadas:**
-- GitHub Pages (gratuito, ilimitado) ⭐
-- Netlify (gratuito, fácil)
-- Vercel (gratuito, rápido)
 
 ---
 
@@ -211,8 +158,7 @@ Este projeto é de código aberto e pode ser usado livremente para fins educacio
 
 **Desenvolvedor:** Kauan Vieira Goscinski  
 **Instituição:** UNINTER  
-**Curso:** Engenharia de Software  
-**Email:** [Seu email aqui]
+**Curso:** Engenharia de Software 
 
 ---
 
@@ -235,22 +181,10 @@ Este projeto é de código aberto e pode ser usado livremente para fins educacio
 
 ---
 
-## 🎯 Próximos Passos
-
-- [ ] Hospedar o site online
-- [ ] Distribuir folders nos locais públicos
-- [ ] Coletar feedback dos usuários
-- [ ] Adicionar mais serviços
-- [ ] Criar vídeos tutoriais
-- [ ] Implementar modo escuro
-- [ ] Adicionar suporte a outros idiomas
-
----
-
 ## 📈 Versão
 
 **Versão:** 1.0.0  
-**Data:** Fevereiro de 2025  
+**Data:** Fevereiro de 2026
 **Status:** ✅ Pronto para uso
 
 ---
