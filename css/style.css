@@ -77,6 +77,25 @@ body {
 
 }
 
+.logo-header {
+    max-width: 420px;   /* desktop */
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+    .header {
+        padding: 1.2rem 1rem;
+    }
+
+    .logo-header {
+        max-width: 300px; /* mobile */
+    }
+}
+
+
 /* Navegação */
 .nav {
     background: var(--cor-fundo-card);
