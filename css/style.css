@@ -39,10 +39,7 @@ body {
 
 /* Header */
 .header {
-    /* background: linear-gradient(135deg, var(--cor-primaria) 0%, var(--cor-primaria-escura) 100%); */
-
-    background: white;
-
+    background: linear-gradient(135deg, var(--cor-primaria) 0%, var(--cor-primaria-escura) 100%);
     color: white;
     padding: 2rem 1rem;
     box-shadow: var(--sombra-media);
