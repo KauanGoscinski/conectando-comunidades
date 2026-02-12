@@ -19,7 +19,7 @@
           "numero": 1,
           "titulo": "Acessar o site Gov.br",
           "descricao": "Abra seu navegador (Google Chrome, Firefox ou Edge) e digite na barra de endereços: <strong>www.gov.br</strong> - Você também pode baixar o app 'Gov.br' na Google Play Store ou App Store",
-          "imagem": "📱"
+          "imagem": "🏛️"
         },
         {
           "numero": 2,
@@ -172,7 +172,6 @@
       "descricao": "CNH digital, documentos do veículo e consulta de multas",
       "link": "https://www.gov.br/pt-br/apps/carteira-digital-de-transito-1",
       "icone": "🚗",
-      "video": "https://www.youtube.com/embed/RW1ChiHnKZQ",
       "dicas": [
         "💡 A CNH digital tem o mesmo valor legal que a física",
         "💡 Você precisa de conta Gov.br nível Prata ou Ouro",
@@ -225,7 +224,6 @@
       "descricao": "Declaração de Imposto de Renda, consulta de CPF e restituição",
       "link": "https://www.gov.br/receitafederal",
       "icone": "📊",
-      "video": "https://www.youtube.com/embed/Gc2u6AFImn8",
       "dicas": [
         "💡 Guarde todos os comprovantes de gastos com saúde e educação",
         "💡 O prazo da declaração geralmente é de março a maio",
@@ -278,7 +276,6 @@
       "descricao": "Consulte saldo, extratos e faça saque do FGTS",
       "link": "https://www.fgts.gov.br",
       "icone": "💼",
-      "video": "https://www.youtube.com/embed/7eFAwKFVdms",
       "dicas": [
         "💡 Todo mês seu patrão deposita 8% do seu salário no FGTS",
         "💡 Você pode sacar em casos especiais: demissão, casa própria, doença grave",
@@ -331,7 +328,6 @@
       "descricao": "Título de eleitor digital e justificativa de ausência no voto",
       "link": "https://www.tse.jus.br/servicos-eleitorais/servicos/aplicativo-e-titulo",
       "icone": "🗳️",
-      "video": "https://www.youtube.com/embed/g4L2qPjHvXo",
       "dicas": [
         "💡 O e-Título vale como documento oficial com foto",
         "💡 Você pode justificar ausência até 60 dias após a eleição",
@@ -384,7 +380,6 @@
       "descricao": "Cadastro para programas sociais como Bolsa Família e Tarifa Social",
       "link": "https://www.gov.br/cidadania/pt-br/acoes-e-programas/cadastro-unico",
       "icone": "👨‍👩‍👧‍👦",
-      "video": "https://www.youtube.com/embed/nKdDAkq9bQc",
       "dicas": [
         "💡 O cadastro é gratuito e deve ser atualizado a cada 2 anos",
         "💡 Leve documentos de TODA a família que mora com você",
